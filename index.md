@@ -51,7 +51,7 @@ page_sections:
     3438946 - 335 1215883<br>Mail: am250662@alice.it'
   col_3: 'Presidente<br>Gabriele IannilliMob. 3394723258<br>Mail: iannilli.gabriele@tiscali.it'
   col_4: Email ufficiale della Saxula brass band :<br>saxulabrassband@gmail.com
-  image: "/uploads/2018/06/21/forestry-symbol.svg"
+  image: "/uploads/2021/07/15/icons8-contacts-100.png"
 - template: simple-footer
   block: footer-1
   content: SAXULA BRASS BAND © 2021
