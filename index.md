@@ -31,6 +31,15 @@ page_sections:
     enabled: false
     url: ''
     button_text: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  media:
+    image: "/uploads/2021/07/15/brass-trmpet.jpg"
+    alt_text: ''
+  headline: ''
+  slug: ''
+  content: ''
 - template: detail-content
   block: text-1
   headline: Chi siamo
