@@ -15,4 +15,10 @@ fields:
 - name: cloumn1
   type: field_group
   config: {}
+  fields:
+  - name: col
+    type: include
+    config: {}
+    template: 1-column-text
+    label: col
   label: cloumn1
