@@ -45,15 +45,15 @@ page_sections:
     content: <img src="/uploads/2021/07/15/terme.jpg">
     headline: ''
     slug: ''
-- template: simple-footer
-  block: footer-1
-  content: SAXULA BRASS BAND © 2021
 - template: 4-column-footer
   block: footer-2
   col_2: 'Direttore Artistico<br>Maestro Antonio Menegazzo<br>Tel. 077 4480221<br>Mob.338
     3438946 - 335 1215883<br>Mail: am250662@alice.it'
   col_3: 'Presidente<br>Gabriele IannilliMob. 3394723258<br>Mail: iannilli.gabriele@tiscali.it'
   col_4: Email ufficiale della Saxula brass band :<br>saxulabrassband@gmail.com
-  image: ''
+  image: "/uploads/2018/06/21/forestry-symbol.svg"
+- template: simple-footer
+  block: footer-1
+  content: SAXULA BRASS BAND © 2021
 
 ---
