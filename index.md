@@ -49,7 +49,7 @@ page_sections:
   block: footer-2
   col_2: 'Direttore Artistico<br>Maestro Antonio Menegazzo<br>Tel. 077 4480221<br>Mob.338
     3438946 - 335 1215883<br>Mail: am250662@alice.it'
-  col_3: 'Presidente<br>Gabriele IannilliMob. 3394723258<br>Mail: iannilli.gabriele@tiscali.it'
+  col_3: 'Presidente<br>Gabriele Iannilli<br>Mob. 3394723258<br>Mail: iannilli.gabriele@tiscali.it'
   col_4: Email ufficiale della Saxula brass band :<br>saxulabrassband@gmail.com
   image: "/uploads/2021/07/15/icons8-contacts-100.png"
 - template: simple-footer
