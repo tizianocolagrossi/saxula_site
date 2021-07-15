@@ -48,14 +48,22 @@ page_sections:
     esibendosi in teatri prestigiosi con applauditissimi concerti. Anche in Italia
     la Saxula vanta esibizioni in famosi teatri come il Vespasiano di Rieti e il Teatro
     Santa Cecilia di Roma.</p>"
+- template: 3-column-text
+  block: three-column-1
+  col_1:
+    content: <img src="/uploads/2021/07/15/bcc.jpg">
+    headline: ''
+    slug: ''
+  col_2:
+    content: <img src="/uploads/2021/07/15/casalanguida.jpg">
+    headline: ''
+    slug: ''
+  col_3:
+    content: <img src="/uploads/2021/07/15/terme.jpg">
+    headline: ''
+    slug: ''
 - template: simple-footer
   block: footer-1
   content: SAXULA BRASS BAND © 2021
-- template: 4-column-footer
-  block: footer-2
-  image: "/uploads/2021/07/15/bcc.jpg"
-  col_2: <img src="/uploads/2021/07/15/casalanguida.jpg">
-  col_3: <img src="/uploads/2021/07/15/terme.jpg">
-  col_4: ''
 
 ---
