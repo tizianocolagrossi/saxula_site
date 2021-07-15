@@ -31,6 +31,11 @@ page_sections:
     enabled: false
     url: ''
     button_text: ''
+- template: 1-column-text
+  block: one-column-1
+  headline: 'Contatti '
+  slug: ''
+  content: ''
 - template: 4-column-footer
   block: footer-2
   col_2: 'Direttore Artistico<br>Maestro Antonio Menegazzo<br>Tel. 077 4480221<br>Mob.338
