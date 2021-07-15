@@ -56,7 +56,7 @@ page_sections:
     slug: ''
   col_2:
     content: <img src="/uploads/2021/07/15/casalanguida.jpg">
-    headline: ''
+    headline: I nostri partners
     slug: ''
   col_3:
     content: <img src="/uploads/2021/07/15/terme.jpg">
