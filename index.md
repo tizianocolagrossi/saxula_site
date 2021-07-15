@@ -31,12 +31,6 @@ page_sections:
     enabled: false
     url: ''
     button_text: ''
-- template: detail-content
-  block: text-1
-  headline: Contatti
-  content: '<p>Direttore Artistico</p><p id="u216-7">Maestro Antonio Menegazzo</p><p
-    id="u216-9">Tel. 077 4480221</p><p id="u216-11">Mob.338 3438946 - 335 1215883</p><p
-    id="u216-13">Mail: am250662@alice.it</p>'
 - template: 3-column-text
   block: three-column-1
   col_1:
