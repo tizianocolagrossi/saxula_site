@@ -48,6 +48,11 @@ page_sections:
     esibendosi in teatri prestigiosi con applauditissimi concerti. Anche in Italia
     la Saxula vanta esibizioni in famosi teatri come il Vespasiano di Rieti e il Teatro
     Santa Cecilia di Roma.</p>"
+- template: 1-column-text
+  block: one-column-1
+  headline: I nostri partners
+  slug: ''
+  content: ''
 - template: 3-column-text
   block: three-column-1
   col_1:
