@@ -51,5 +51,11 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: SAXULA BRASS BAND © 2021
+- template: 4-column-footer
+  block: footer-2
+  image: ''
+  col_2: <img src="/uploads/2021/07/15/bcc.jpg">
+  col_3: <img src="/uploads/2021/07/15/casalanguida.jpg">
+  col_4: <img src="/uploads/2021/07/15/terme.jpg">
 
 ---
