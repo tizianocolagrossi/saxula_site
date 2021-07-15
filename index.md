@@ -3,6 +3,9 @@ layout: blocks
 title: Homepage
 date: 2017-11-22 23:00:00 +0000
 page_sections:
+- template: simple-header
+  block: header-3
+  logo: ''
 - template: hero-banner-w-image
   block: hero-2
   background_image: "/uploads/2021/07/15/brass-trmpet.jpg"
@@ -28,9 +31,6 @@ page_sections:
     enabled: false
     url: ''
     button_text: ''
-- template: simple-header
-  block: header-3
-  logo: ''
 - template: simple-footer
   block: footer-1
   content: SAXULA BRASS BAND © 2021
