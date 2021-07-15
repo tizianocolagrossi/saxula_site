@@ -8,7 +8,7 @@ page_sections:
   logo: ''
 - template: 1-column-text
   block: one-column-1
-  headline: ''
+  headline: Chi Siamo
   slug: ''
   content: La Saxula Brass Band è un gruppo musicale composto da circa 25/30 elementi.
     Nasce a San Gregorio da Sassola nel 1998 per iniziativa di alcuni ragazzi desiderosi
