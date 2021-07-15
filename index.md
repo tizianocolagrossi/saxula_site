@@ -31,6 +31,13 @@ page_sections:
     enabled: false
     url: ''
     button_text: ''
+- template: detail-content
+  block: text-1
+  headline: Collaborano con noi
+  content: <p><a href="http://www.euphonium.net/">Maestro Steven Mead</a></p><p id="u198-12"><a
+    href="http://www.atlanticbrassband.org/">Atlantic Brass Band</a></p><p id="u198-17"><a
+    href="http://www.rivercitybrass.org/">River City Brass Band</a></p><p id="u198-22"><a
+    href="http://www.jamesgourlaytuba.com/">Maestro James Gourlay</a></p>
 - template: 3-column-text
   block: three-column-1
   col_1:
